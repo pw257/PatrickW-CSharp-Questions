@@ -25,7 +25,7 @@ Q: What are generics and how is using them useful?
 A: Generics are used to give your objects a strongly typed collection.
 
 Q: What is the scope of a public member of a class?
-A:
+A: The scope is the accessibility of the class and where it can be read from / written to.
 
 Q:Can you create a function that can accept a varying number of arguments?
 A: Yes you can.
@@ -82,25 +82,25 @@ Q: When can var be used to declare a variable and how is the type for the variab
 A: It can be used when a local variable is declared and initialized in the same statement. 
 
 Q: What is an abstract class?
-A:
+A: An abstract class is a class that is declared without any implementation.
 
 Q: What is an interface?
-A:
+A: It's an abstract base class and can be used to get around not being able to use multiple inheritance in C#.
 
 Q: What is a method?
-A:
+A: A method is a group of statements that when put together, they perform a task.
 
 Q: What is a property?
-A:
+A: A property is a member that provides a flexible mechanism to read, write or compute the value of a private field.
 
 Q: What is an access specifier?
-A:
+A: They are keywords that set the accessibility of classes, methods and other members.
 
 Q: What access specifiers are supported and what do they mean?
-A:
+A: Private, which limits the accessibility of a member, public, which has no limits, internal, which is used to make your class members accessible in the assembly, protected, which means any protected type or member is accessible when a child is inherited by a parent and protected internal, which is a mix of the two.
 
 Q: What is a collection?
-A:
+A: They are specialized classes for data storage and retrieval. 
 
 Q: What is a Hash Table?
-A:
+A: A hash table is a collection of key-and-value pairs.
