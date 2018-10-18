@@ -43,33 +43,64 @@ Q: What is inheritance?
 A: It is the ability to create a class that inherits attributes and behaviors from another class.
 
 Q: Is multiple inheritance supported?
-A:
+A: No it isn't.
 
 Q: What is the purpose of as operator
+A: It's similar to the is operator but instead of bool it returns object or null.
 
 Q: What is an object?
+A: An instance of a class that is made dynamically.
 
 Q: What is the difference between a struct and a class?
+A: Structs are value types and classes are reference types.
 
 Q: What is the difference between continue and break statements?
+A: With a break you can jump out of a loop while with a continue you can jump over one iteration and then resume the loop.
 
 Q: What is this and how is it used?
+A: It's used to reference the current instance of the class.
 
 Q: What is try and catch and when are they used?
+A: A try block is the block of code in which exceptions occur and a catch block catches and handles the exceptions of the try block.
 
 Q: How is exception handling done?
+A: It's done by using the keywords try, catch, and finally.
 
 Q: What is finally and what is its purpose?
+A: It is an exception handling keyword and its used for clean up of objects. 
 
 Q: List the differences between Array and ArrayList.
+A: An array is a datatype while an arraylist is a datatype collection.
+
 Q: What is an object?
+A: An instance of a class that is made dynamically.
+
 Q: Define constructor.
+A: A constructor is a method used to set default values, limit instantiation, and write code that is flexible and easy to read.
+
 Q: When can var be used to declare a variable and how is the type for the variable determined?
+A: It can be used when a local variable is declared and initialized in the same statement. 
+
 Q: What is an abstract class?
+A:
+
 Q: What is an interface?
+A:
+
 Q: What is a method?
+A:
+
 Q: What is a property?
+A:
+
 Q: What is an access specifier?
+A:
+
 Q: What access specifiers are supported and what do they mean?
+A:
+
 Q: What is a collection?
+A:
+
 Q: What is a Hash Table?
+A:
