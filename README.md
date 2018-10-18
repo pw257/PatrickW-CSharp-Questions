@@ -16,25 +16,34 @@ Q: What is the purpose of using statement?
 A: It provides a syntax that ensures the correct use of IDisposable objects.
 
 Q: What are dynamic type variables?
-A: 
+A: A dynamic type variable is used to tell the compiler a variable's type can change or it'll not be known until runtime.
 
 Q: What is the purpose of the is operator?
+A: The is operator is used to check the object type and returns a bool value of either true or false.
 
 Q: What are generics and how is using them useful?
+A: Generics are used to give your objects a strongly typed collection.
 
 Q: What is the scope of a public member of a class?
+A:
 
-Q: Can you create a function that can accept a varying number of arguments?
+Q:Can you create a function that can accept a varying number of arguments?
+A: Yes you can.
 
 Q: How do you sort an array?
+A: By using Array.Sort
 
 Q: What is a nullable type and what purpose does it serve?
+A: They are special data types and they make it possible to assign a null to a value type. 
 
 Q: What is an enumeration?
+A: It's a set of integer constants.
 
 Q: What is inheritance?
+A: It is the ability to create a class that inherits attributes and behaviors from another class.
 
 Q: Is multiple inheritance supported?
+A:
 
 Q: What is the purpose of as operator
 
